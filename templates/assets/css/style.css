@@ -120,11 +120,15 @@ footer {
     background-color: #007600; /*Color - green*/
 }
 .js {
-    width: 1%; /*Percentage achieved.*/
+    width: 60%; /*Percentage achieved.*/
     background-color: #007600; /*Color - green*/
 }
 .php {
-    width: 1%; /*Percentage achieved.*/
+    width: 10%; /*Percentage achieved.*/
+    background-color: #007600; /*Color - green*/
+}
+.java{
+    width: 20%; /*Percentage achieved.*/
     background-color: #007600; /*Color - green*/
 }
 
